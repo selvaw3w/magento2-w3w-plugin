@@ -21,7 +21,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "What3Words\\What3Words\\": ""
+            "selvaw3w\\What3Words\\": ""
         }
     }
 }
