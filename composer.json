@@ -1,10 +1,10 @@
 {
-    "name": "what3words/module-what3words",
+    "name": "selvaw3w/module-what3words",
     "description": "Module adding custom shipping attribute for what3words address",
     "type": "magento2-module",
     "license": "proprietary",
     "keywords": ["magento", "magento2", "what3words", "what3words address"],
-    "version": "2.0.0",
+    "version": "2.0.1",
     "authors": [
         {
             "name": "Vlad Patru",
